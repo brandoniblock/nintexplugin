@@ -1937,7 +1937,7 @@ const fire = (element, data) => {
   element.dispatchEvent(event);
   return event;
 };
-let NintexSampleTextfield = _decorate([e$2('form-plugin-textfield')], function (_initialize, _LitElement) {
+let NintexSampleTextfield = _decorate([e$2('form-plugin-test')], function (_initialize, _LitElement) {
   class NintexSampleTextfield extends _LitElement {
     constructor(...args) {
       super(...args);
